@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+rideshare_toscrape/__init__.py
+rideshare_toscrape/items.py
+rideshare_toscrape/middlewares.py
+rideshare_toscrape/pipelines.py
+rideshare_toscrape/settings.py
+rideshare_toscrape/spiders/Luup_basic.py
+rideshare_toscrape/spiders/__init__.py
