@@ -3,7 +3,10 @@
 スクレイピングアプリ
 
 ## ②課題内容（どんな作品か）
+特定のWebサイト（株式会社luup:https://luup.sc/news/）とRSSフィード(金融庁)から情報を取得してDBに格納して表示するアプリ
 
+
+(詳細)
 -scrapyを利用したWebサイトからスクレイピングしたデータをDBに登録
 --python scrapyにより特定のサイトからNewsデータを取得するコードを作成
 --Scrapy Cloud(https://www.zyte.com/scrapy-cloud/)にデプロイしてスクレイピングを実行
